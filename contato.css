@@ -46,7 +46,7 @@ nav a.menu-item {
 
 nav a.menu-item:hover {
     color: #3498db;
-    font-size: 15px;
+    font-size: 18px;
 }
 
 .text-container {
@@ -101,8 +101,8 @@ footer {
     color: #fff;
     bottom: 0;
     left: 0;
-    font-size: 15px;
-    margin-top: 120px;
+    font-size: 13px;
+    margin-top: 140px;
 }
 
 footer p {
